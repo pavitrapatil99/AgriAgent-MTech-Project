@@ -1,0 +1,27 @@
+AgriAgent Starter Knowledge Document
+Status: Demonstration content for testing retrieval. This is not a verified agricultural reference.
+Version: 1.0
+
+1. Soil Health Before Planting
+Healthy soil supports root growth, water movement, and nutrient availability. Before planting, inspect the soil and consider a soil test through a suitable local agricultural laboratory. Use test results and locally recommended guidance to decide whether amendments are needed. Mature compost may help improve soil structure when appropriate for the soil and crop. Avoid assuming that every field needs the same amendment.
+
+2. Tomato Crop Preparation
+Tomato recommendations depend on the variety, local climate, soil conditions, and planting season. Before planting, check local recommendations for suitable planting dates, spacing, nutrient management, and varieties. Do not choose fertilizer rates without relevant soil-test results or locally appropriate recommendations.
+
+3. Irrigation and Water Stress
+Irrigation decisions should consider crop growth stage, recent rainfall, soil moisture, soil type, drainage, and the weather forecast. A forecast alone does not confirm the actual moisture level in a field. Check soil moisture where possible before deciding when and how much to irrigate. Avoid both prolonged water shortage and waterlogging.
+
+4. Yellow Leaves
+Yellow leaves can have several causes, including nutrient problems, excess or insufficient water, pests, diseases, or normal aging. Inspect the pattern of symptoms, affected plant parts, recent weather, and field conditions before deciding on treatment. Do not diagnose a disease from leaf color alone.
+
+5. Pest and Disease Symptoms
+Inspect affected plants and record the crop, growth stage, symptom pattern, and when symptoms began. Similar symptoms can have different causes. Confirm the likely cause using reliable local agricultural guidance or a qualified agricultural specialist before applying pesticides. Follow the product label and local regulations.
+
+6. Vegetation and Satellite Indicators
+Vegetation indices such as NDVI can help indicate relative vegetation greenness, but they do not directly prove a specific nutrient deficiency, disease, or soil-moisture condition. Interpretation depends on crop type, growth stage, image quality, date, and field conditions. Compare observations over time and verify unusual results with field observations.
+
+7. Weather Information
+Weather forecasts can help farmers plan monitoring and field activities. Forecasts are predictions, not direct measurements of conditions in a particular field. Consider the forecast period, location, crop stage, and local conditions. Do not infer soil moisture or disease presence from temperature or rainfall forecasts alone.
+
+8. When Information Is Missing
+If the crop, location, growth stage, soil conditions, or symptoms are unknown, ask for the details that would materially change the advice. Clearly distinguish general suggestions from conclusions supported by available measurements. If uncertain, state the uncertainty and recommend an appropriate local agricultural source.
